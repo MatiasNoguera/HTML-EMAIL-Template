@@ -1,4 +1,4 @@
-HTML EMAIL 
+HTML EMAIL TEMPLATE
 
 DEMO: https://matiasnoguera.github.io/HTML-EMAIL-Template/
 
